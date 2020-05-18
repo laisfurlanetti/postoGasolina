@@ -1,0 +1,7 @@
+C:\Users\Avatar\source\repos\postoGasolina\obj\Debug\postoGasolina.csprojAssemblyReference.cache
+C:\Users\Avatar\source\repos\postoGasolina\obj\Debug\postoGasolina.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\source\repos\postoGasolina\bin\Debug\postoGasolina.exe.config
+C:\Users\Avatar\source\repos\postoGasolina\bin\Debug\postoGasolina.exe
+C:\Users\Avatar\source\repos\postoGasolina\bin\Debug\postoGasolina.pdb
+C:\Users\Avatar\source\repos\postoGasolina\obj\Debug\postoGasolina.exe
+C:\Users\Avatar\source\repos\postoGasolina\obj\Debug\postoGasolina.pdb
